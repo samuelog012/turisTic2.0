@@ -9,10 +9,6 @@ data class SpotsItem(
     val direccion: String,
     @SerializedName("city")
     val city: String,
-    @SerializedName("facebook")
-    val facebook: String,
-    @SerializedName("height")
-    val height: Double,
     @SerializedName("name")
     val name: String,
     @SerializedName("temp")

@@ -39,15 +39,10 @@ class DetailFragment : Fragment() {
         direccionTextView.text = spots.direccion
         cityTextView.text = spots.city
         tempTextView.text = spots.temp
-        //heightTextView.text = spots.height.toString()
-        //facebookTextView.text = spots.facebook
         descripcionTextView.text = spots.descripcion
         Picasso.get().load(spots.urlPicture).into(pictureImageView)
 
 
-
-    //     .into(pictureImageView)
-        //spots.urlPicture
     }}
 
 
