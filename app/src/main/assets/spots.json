@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Murallas",
+        "descripcion": "Cuatro siglos de historia guarda este muro de 11 kilómetros de mineral marino ubicado en el Centro Histórico. Es La fortificación más completa del continente de América del Sur.",
+        "direccion": "Provincia de Cartagena, Bolivar",
+        "city": "Cartagena",
+        "facebook": "https: //www.facebook.com/superman",
+        "temp": "26.9°C",
+        "height": 1.85,
+        "urlPicture": "https://upload.wikimedia.org/wikipedia/commons/1/12/Sunset-cartagena-tower-dewired.jpg"
+    },
+    {
+        "name": "Museo del Oro Zenú",
+        "descripcion": "Fue inaugurado por el Banco de la República y en 1982 abrió sus puertas al público en Cartagena de Indias, con una colección de piezas en oro y cerámica de las principales culturas precolombinas.",
+        "direccion": "Carrera 4 # 33-60, Calle del Ladrinal",
+        "city": "Cartagena",
+        "facebook": "https: //www.facebook.com/batman",
+        "temp": "26.9°C",
+        "height": 1.80,
+        "urlPicture": "https://live.staticflickr.com/3389/3303022432_a89ae0a73d_b.jpg"
+    },
+    {
+        "name": "Jardín Botánico Guillermo Piñeres",
+        "descripcion": "El Jardín Botánico Guillermo Piñeres es el lugar ideal para los amantes de la naturaleza que buscan un entorno natural.",
+        "direccion": "Sector Matute Km 9 Autopista I-90",
+        "city": "Cartagena",
+        "facebook": "https: //www.facebook.com/wonderwoman",
+        "temp": "26.9°C",
+        "height": 1.80,
+        "urlPicture": "https://upload.wikimedia.org/wikipedia/commons/6/62/Jardin_botanico_guillermo_pi%C3%B1eres.JPG"
+    }
+]
